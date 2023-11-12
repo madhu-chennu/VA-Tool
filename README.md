@@ -10,6 +10,7 @@ A Vulnerability Assessment tool written in bash with a focus on reliability and 
 + Network port scanning using NMAP.
 + Advanced Google dorking capabilities like Locate Sensitive Files, Find Login Pages, Directory Listing, Discover Cached Pages, Identify Technology Stack, Finding Open Redirects etc.,
 + Executing Wapiti to scan for web-application vulnerabilities.
++ Accessing all the recognized URLs simultaneously in a web browser with a single click.
 
 # Installation
 Download the repository using the following command:
