@@ -37,6 +37,7 @@ The above command asks the target_URL & Scope_URL.<br>
 # Vulnerability Scan Report:
 After the scan completed, a detailed report will be generated as a HTML file. Let's now navigate to the report.
 
+![Screenshot (85)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/2ff86c3c-c976-4294-9c39-0d144af70d71)
 ![Screenshot (85)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/d8faf176-72aa-4afb-8055-814f1f13b06e)
 ![Screenshot (86)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/a2081255-0bb1-43a9-848b-cf33c842923a)
 ![Screenshot (88)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/b22a3a3d-1ea0-4b52-b00a-97691132e0aa)
