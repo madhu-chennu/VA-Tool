@@ -15,7 +15,7 @@ A Vulnerability Assessment tool written in bash with a focus on reliability and 
 # Installation
 Download the repository using the following command:
 ```
-git clone https://github.com/madhu1234567890/VA-Tool.git
+git clone https://github.com/madhu-chennu/VA-Tool.git
 ```
 
 Run the below command to download the neccessary tools into the local machine.
