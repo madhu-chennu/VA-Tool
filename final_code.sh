@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Prompt the user for the URL
-read -p "Enter the URL: " main_url
+read -p "Enter the target_URL: " main_url
 read -p "Enter your scope [URL]: " scope_url
 
 # Check if the URL is empty
@@ -204,8 +204,8 @@ timeout 3000 nmap -A -sV --script vuln "$domain_name" -p80,443,$port_number >> n
 
 echo "[+] Running Google Dorking..."
 # Define our Google Custom Search Engine (CSE) ID and API key
-cse_id="5514f3e81558048c5"
-api_key="AIzaSyCw4dxpwnN2L7ShpT6wn5j9ZAYhNZMfGVE"
+cse_id="{enter-your-CSE-ID-here}"
+api_key="{enter-your-API-key-here}"
 
 # Define the base URL
 #base_url="http://testphp.vulnweb.com"
