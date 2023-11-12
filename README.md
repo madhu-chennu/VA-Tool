@@ -23,8 +23,11 @@ Run the below command to download the neccessary tools into the local machine.
 
 # Usage
 > ./final_code.sh
-The above command asks the target_URL & Scope_URL.
-**target_URL:** The URL of the target website that should be accessible.
+
+The above command asks the target_URL & Scope_URL.<br>
+**target_URL:** The URL of the target website that should be accessible.<br>
 **Scope_URL:** The URL that indicates the scope of our work/application (helps to find the files/folder using Hakraler, dirsearch, Katana etc.,).
+
+**Note:** A Google Custom Search Engine (CSE) was implemented in the code for advanced google dorking. So, you need to give/append your own API keys in the code. You can create your own Google Custom Search Engine (CSE) keys for free by navigating link https://console.cloud.google.com/apis/api/customsearch.googleapis.com/metrics?project=first-discovery-400216.
 
 
