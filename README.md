@@ -27,9 +27,8 @@ The above command asks the target_URL & Scope_URL.<br>
 
 **Note:** A Google Custom Search Engine (CSE) was implemented in the code for advanced google dorking. So, you need to give/append your own API keys in the code. You can create your own Google Custom Search Engine (CSE) keys for free by navigating link https://console.cloud.google.com/apis/api/customsearch.googleapis.com/metrics?project=first-discovery-400216.
 
-**Vulnerability Scan Report:**
+# Vulnerability Scan Report:
 After the scan completed, a detailed report will be generated as a HTML file. Let's now navigate to the report.
-
 
 ![Screenshot (85)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/d8faf176-72aa-4afb-8055-814f1f13b06e)
 ![Screenshot (86)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/a2081255-0bb1-43a9-848b-cf33c842923a)
@@ -38,3 +37,4 @@ After the scan completed, a detailed report will be generated as a HTML file. Le
 ![Screenshot (90)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/330bad42-e09e-4865-ba24-6a6eb132d38e)
 
 
+Happy Hunting :)
