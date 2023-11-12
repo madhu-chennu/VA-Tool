@@ -13,7 +13,9 @@ A Vulnerability Assessment tool written in bash with a focus on reliability and 
 
 # Installation
 Download the repository using the following command:
-> git clone https://github.com/madhu1234567890/VA-Tool.git
+```
+git clone https://github.com/madhu1234567890/VA-Tool.git
+```
 
 Run the below command to download the neccessary tools into the local machine.
 ```
@@ -21,7 +23,9 @@ Run the below command to download the neccessary tools into the local machine.
 ```
 
 # Usage
-> ./final_code.sh
+```
+./final_code.sh
+```
 
 The above command asks the target_URL & Scope_URL.<br>
 **target_URL:** The URL of the target website that should be accessible.<br>
