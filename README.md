@@ -16,7 +16,9 @@ Download the repository using the following command:
 > git clone https://github.com/madhu1234567890/VA-Tool.git
 
 Run the below command to download the neccessary tools into the local machine.
-> ./requirements.sh
+```
+./requirements.sh
+```
 
 # Usage
 > ./final_code.sh
