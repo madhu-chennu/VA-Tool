@@ -38,11 +38,9 @@ The above command asks the target_URL & Scope_URL.<br>
 After the scan completed, a detailed report will be generated as a HTML file. Let's now navigate to the report.
 
 ![Screenshot (85)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/2ff86c3c-c976-4294-9c39-0d144af70d71)
-![Screenshot (85)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/d8faf176-72aa-4afb-8055-814f1f13b06e)
-![Screenshot (86)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/a2081255-0bb1-43a9-848b-cf33c842923a)
-![Screenshot (88)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/b22a3a3d-1ea0-4b52-b00a-97691132e0aa)
-![Screenshot (89)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/c9082fbd-3268-4090-be5c-4f0e48412a44)
-![Screenshot (90)](https://github.com/madhu1234567890/VA-Tool/assets/46317449/330bad42-e09e-4865-ba24-6a6eb132d38e)
-
+![Screenshot (86)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/9560a469-5da0-4653-b7b9-4126f3040076)
+![Screenshot (88)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/6af76618-5f2c-4528-9859-a429f538e68e)
+![Screenshot (89)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/ad047c34-035c-4c42-986e-661923cca68e)
+![Screenshot (90)](https://github.com/madhu-chennu/VA-Tool/assets/46317449/0d343f4a-6ee7-4bed-a10b-aa1650e8087f)
 
 Happy Hunting :)
