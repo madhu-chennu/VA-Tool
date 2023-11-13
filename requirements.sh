@@ -4,14 +4,10 @@
 # sudo apt update && sudo apt upgrade -y
 
 # Install Python3 and pip
-# sudo apt-get update
 sudo apt install python3-pip
 
 # Remove /bin/go
 sudo rm -rf /bin/go
-
-# Update to fix missing packages
-# sudo apt update --fix-missing
 
 # Install Golang
 sudo apt install golang -y
