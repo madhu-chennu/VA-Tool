@@ -25,7 +25,7 @@ Run the below command to download the neccessary tools into the local machine.
 
 # Usage
 ```
-./final_code.sh
+./VA_Scanner.sh
 ```
 
 The above command asks the target_URL & Scope_URL.<br>
