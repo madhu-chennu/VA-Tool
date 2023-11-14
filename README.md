@@ -23,6 +23,13 @@ Run the below command to download the neccessary tools into the local machine.
 ./requirements.sh
 ```
 
+Now, let's give permissions to the files.
+```
+chmod 777 requirements.sh
+chmod 777 VA_Scanner.sh
+```
+**Note:** Run all the commands with root user permissions.
+
 # Usage
 ```
 ./VA_Scanner.sh
